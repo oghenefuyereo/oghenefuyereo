@@ -15,7 +15,42 @@ I enjoy building responsive websites, web apps, and user-friendly digital experi
 - 🌱 I’m learning: **Advanced React & UI/UX Design Systems**  
 - 💬 Ask me about: **Frontend Development, UX/UI Design, Web Performance Optimization**  
 - 📫 Reach me at: **oghenefuyereo@gmail.com**  
+- 🌐 Portfolio: [View My Work](https://oki23001.myportfolio.com/)  
 - ⚡ Fun fact: I blend **technology + creativity** to deliver impactful solutions  
+
+---
+
+<h3 align="left">💡 About Me:</h3>
+<p>
+Oghenefuyere Okiotorhoro is a highly motivated and client-centric professional with expertise in <b>web development, UX design, and graphic design</b>.  
+As a curious and analytical problem-solver, he is highly adaptable and committed to lifelong learning.  
+In his free time, he enjoys exploring industrial technology and design, as well as spending quality time outdoors with his loved ones.
+</p>
+
+---
+
+<h3 align="left">🛠 Technical Skills:</h3>
+
+**Programming Languages:** HTML, CSS, JavaScript, Python, C#  
+**Frameworks & Runtime:** Express.js, Node.js  
+**Databases:** MySQL, JSON  
+**Libraries & APIs:** jQuery, API integration  
+
+---
+
+<h3 align="left">🎨 Design Software Proficiency:</h3>
+
+- Adobe Creative Suite: Illustrator, InDesign, Photoshop  
+- UI/UX Design Tools: Figma, Wireframe.cc  
+- Typography Tools: Glyph  
+
+---
+
+<h3 align="left">📊 Microsoft Office Proficiency:</h3>
+
+- Microsoft Word  
+- Microsoft Excel  
+- Microsoft PowerPoint  
 
 ---
 
