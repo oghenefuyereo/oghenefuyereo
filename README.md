@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oghenefuyere Okiotorhoro (OG)</h1>
-<h3 align="center">🚀 Frontend Developer | UX/UI & Graphic Designer | Web Developer</h3>
+<h3 align="center">🚀 Front-End Engineer | UX Designer | Web Developer | JavaScript, Node.js, HTML/CSS, Figma, Adobe CC</h3>
 
 <p align="center">
 I build dynamic, user-focused web applications with <b>HTML, CSS, JavaScript, Node.js, Express, PostgreSQL, MongoDB</b>, and create intuitive designs using <b>Figma, Photoshop, Illustrator</b>.  
@@ -23,6 +23,49 @@ Passionate about innovative solutions, responsive interfaces, and scalable digit
 **Databases & APIs:** PostgreSQL, MongoDB, REST APIs, Swagger  
 **Design Tools:** Figma, Adobe Creative Suite (Photoshop, Illustrator, InDesign)  
 **Other Tools:** GitHub, Render, Netlify  
+
+---
+
+<h3 align="left">💼 Experience Highlights:</h3>
+
+**Freelance / Contract** – UX Designer & Web Developer  
+*Nov 2023 – Present | Canada · Hybrid*  
+- Developed dynamic websites and web apps using HTML, CSS, JavaScript, Node.js, and design tools.  
+- Collaborated with clients to design intuitive UI/UX and deploy applications using Render and Netlify.  
+
+**Ebeano Supermarket – Graphic Web Designer (Contract, Part-time)**  
+*Apr 2024 – Jul 2024 | St. Catharines, Ontario, Canada · Hybrid*  
+- Improved user engagement by 20% via data-driven website design.  
+- Streamlined navigation and accessibility, reducing bounce rates by 15%.  
+- Boosted organic traffic by 30% through SEO and mobile optimization.  
+- Designed visual assets increasing user retention by 40%.  
+- Created marketing visuals and email campaigns, raising click-through rates by 25%.  
+- Increased social media engagement by 35% with high-impact content.  
+- Collaborated with marketing to enhance customer conversions by 20%.  
+- Maintained consistent branding across web and print, reducing revisions by 30%.  
+**Skills:** SEO, Wireframing, Adobe Creative Suite, Figma, Web Development  
+
+**Nerox Place – Graphic Designer & Machine Operator (Contract Full-time)**  
+*Mar 2022 – Mar 2023 | Eku, Delta State, Nigeria*  
+- Applied color theory and design principles for marketing projects.  
+- Managed print production ensuring high-quality deliverables.  
+- Operated and maintained printing machinery.  
+**Skills:** Photoshop, CorelDRAW, Typesetting, Printing Machine Operation, Logo & Flyer Design  
+
+**Elipress Graphic and Printing Press – Graphic Designer (Internship)**  
+*Jan 2017 – Dec 2017 | On-site*  
+- Learned and applied design principles under mentorship.  
+- Developed hands-on skills with digital tools and creative problem-solving.  
+- Fostered collaborative teamwork in design projects.  
+
+---
+
+<h3 align="left">🎓 Education:</h3>
+
+- **Niagara College** – Advanced Diploma, Graphic Design (Sep 2023 – Apr 2026)  
+- **Brigham Young University–Idaho** – Certificate, Web & Computer Programming (Sep 2023 – Jul 2024)  
+- **Brigham Young University–Idaho** – Associate of Science, Web Development (Sep 2023 – Jul 2025)  
+- **Brigham Young University–Idaho** – Bachelor of Science, Software Development (Sep 2023 – Jul 2027)  
 
 ---
 
