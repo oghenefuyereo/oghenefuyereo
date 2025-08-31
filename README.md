@@ -2,14 +2,14 @@
 <h3 align="center">🚀 Front-End Engineer | UX Designer | Web Developer</h3>
 
 <p align="center">
-I build dynamic, user-focused web applications with <b>HTML, CSS, JavaScript, React, Node.js, Express, PostgreSQL, MongoDB</b> and create intuitive designs using <b>Figma, Photoshop, Illustrator</b>.  
-Passionate about innovative, responsive, and scalable digital solutions.
+I build dynamic, user-focused web applications with <b>HTML, CSS, JavaScript, Node.js, Express, PostgreSQL, MongoDB</b> and create intuitive designs using <b>Figma, Photoshop, Illustrator</b>.  
+Currently learning <b>React</b> to expand my front-end development skills. Passionate about innovative, responsive, and scalable digital solutions.
 </p>
 
 ---
 
 - 🔭 Currently working on: **Restaurant Website Project**  
-- 🌱 Learning: **Advanced React & UI/UX Design Systems**  
+- 🌱 Learning: **React & Advanced UI/UX Design Systems**  
 - 💬 Ask me about: **Frontend Development, UX/UI Design, Web Optimization**  
 - 📫 Reach me: **oghenefuyereo@gmail.com**  
 - 🌐 Portfolio: [View My Work](https://oki23001.myportfolio.com/)  
@@ -18,8 +18,8 @@ Passionate about innovative, responsive, and scalable digital solutions.
 
 <h3 align="left">🛠 Key Skills:</h3>
 
-**Languages & Frameworks:** HTML, CSS, JavaScript, React, Node.js, Express, Python, C#  
-**Databases & APIs:** PostgreSQL, MongoDB, REST APIs, Swagger  
+**Languages & Frameworks:** HTML, CSS, JavaScript, Node.js, Express, Python, C#  
+**Databases & APIs:** PostgreSQL, MongoDB, REST APIs  
 **Design Tools:** Figma, Adobe CC (Photoshop, Illustrator, InDesign)  
 **Other Tools:** GitHub, Render, Netlify, SEO  
 
@@ -28,13 +28,13 @@ Passionate about innovative, responsive, and scalable digital solutions.
 <h3 align="left">💼 Selected Experience:</h3>
 
 - **Freelance / Contract – UX Designer & Web Developer** | Nov 2023 – Present  
-  Built full-stack web apps, designed intuitive UI/UX, deployed apps using Render & Netlify.  
+  Built web applications, designed intuitive UI/UX, and deployed projects using Render & Netlify.  
 
 - **Niagara College – Peer Tutor (Contract Part-time)** | Expected Apr 2026  
-  Tutored students in Adobe CC, word processing, file management, and software navigation.  
+  Tutored students in Adobe CC, word processing, and software navigation.  
 
 - **Ebeano Supermarket – Graphic Web Designer (Contract, Part-time)** | Apr 2024 – Jul 2024  
-  Improved accessibility, SEO, and marketing campaigns, boosting engagement and conversions.  
+  Enhanced web accessibility, SEO, and marketing campaigns, boosting engagement and conversions.  
 
 ---
 
