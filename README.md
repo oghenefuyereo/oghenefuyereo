@@ -28,74 +28,69 @@ Passionate about innovative solutions, responsive interfaces, and scalable digit
 
 <h3 align="left">💼 Experience Highlights:</h3>
 
-**Niagara College – Peer Tutor**  
-*May 2024 – Present | Welland, Ontario, Canada · Hybrid*  
-- Tutored fellow graphic design students in Adobe Photoshop, Illustrator, and InDesign.  
-- Conducted interactive sessions on computer skills, file management, and software navigation.  
-**Skills:** Adobe Suite, Tutoring, Team Collaboration, Communication  
-
-**Niagara College – NC Student Event Support & Student Grad Marshal**  
-*Oct 2024 – Jul 2025 | Welland, Ontario, Canada*  
-- Assisted with student events, ensuring smooth operations and a welcoming environment.  
-- Delivered excellent client service and supported team efficiency.  
-**Skills:** Hospitality Management, Customer Service, Team Collaboration, Time Management  
-
-**Freelance / Contract – UX Designer & Web Developer / Graphic Designer**  
+**Freelance / Contract** – UX Designer & Web Developer  
 *Nov 2023 – Present | Canada · Hybrid*  
-- Designed websites, apps, and UI/UX solutions.  
-- Created visual assets, branding materials, and marketing campaigns.  
-- Managed projects across digital and print platforms.  
-**Skills:** HTML, CSS, JavaScript, Node.js, Adobe CC, Figma, Typography, Branding, Web Design  
+- Developed dynamic websites and web apps using HTML, CSS, JavaScript, Node.js, and design tools.  
+- Collaborated with clients to design intuitive UI/UX and deploy applications using Render and Netlify.  
 
-**Freelance – Web Developer**  
-*Sep 2020 – Present | Canada*  
-- Developed dynamic, responsive web applications for clients.  
-**Skills:** HTML5, CSS3, JavaScript, Python, C#  
+**Niagara College** – Peer Tutor (Contract Part-time)  
+*Expected Graduation: Apr 2026 | Hybrid*  
+- Provided individualized tutoring for graphic design students, improving skills in Adobe Photoshop, Illustrator, and InDesign.  
+- Led interactive sessions on fundamental computer skills: word processing, file management, and internet usage.  
 
-**Freelance – Graphic Designer**  
-*Dec 2017 – Apr 2023 | Nigeria · Hybrid*  
-- Expanded client portfolio by 40%, achieving 70% repeat business.  
-- Delivered diverse projects on tight deadlines with 95% approval rate.  
-**Skills:** Adobe Photoshop, CorelDRAW, Microsoft Office, Logo & Flyer Design, Branding, Book & Packaging Design  
+**Niagara College** – Student Event Support (Seasonal)  
+*Oct 2024 – Jul 2025 | On-site*  
+- Supported student events on-site, ensuring smooth operations and a welcoming environment.  
+
+**Niagara College** – Student Grad Marshal (Seasonal)  
+*Jun 2024 | On-site*  
+- Assisted guests with professionalism, maintained a welcoming atmosphere, and supported team efficiency.  
 
 **Ebeano Supermarket – Graphic Web Designer (Contract, Part-time)**  
 *Apr 2024 – Jul 2024 | St. Catharines, Ontario, Canada · Hybrid*  
-- Improved user engagement and accessibility, boosting traffic by 30%.  
-- Designed marketing visuals and campaigns, raising retention and click-through rates.  
-- Maintained consistent branding across web and print.  
-**Skills:** SEO, Wireframing, WordPress, UX, Web Design  
+- Improved user engagement by 20% and reduced bounce rates by 15% through data-driven website design and enhanced accessibility.  
+- Boosted organic traffic by 30% via SEO and mobile optimization.  
+- Designed visual assets and marketing campaigns, increasing user retention by 40% and email click-throughs by 25%.  
+- Increased social media engagement by 35% and collaborated with marketing to enhance customer conversions by 20%.  
+- Maintained consistent branding across web and print, reducing revisions by 30%.  
+**Skills:** SEO, Wireframing, WordPress, Web Design, UX  
 
 **Nerox Place – Graphic Designer & Machine Operator (Contract Full-time)**  
 *Mar 2022 – Mar 2023 | Eku, Delta State, Nigeria*  
-- Managed print production and operated specialized machines.  
-- Applied design principles to digital and print materials.  
-**Skills:** Photoshop, CorelDRAW, Typesetting, Printing Machine Operation, Teamwork  
+- Applied color theory and design principles for marketing projects.  
+- Utilized Photoshop, CorelDRAW, and other tools to enhance graphics for digital and print media.  
+- Managed print production and operated specialized machines, ensuring high-quality outputs delivered on time.  
+- Performed regular maintenance of equipment and collaborated with team members to meet project goals.  
+**Skills:** Typesetting, Teamwork, Printing Machine Operation, Photography, Communication, Adobe Photoshop, CorelDRAW, Logo & Flyer Design  
 
-**Bender Scholar Shepherd Care Schools – ICT Manager & Computer Instructor / Multimedia & IT Support Officer**  
+**Bender Scholar Shepherd Care Schools – ICT Manager & Computer Instructor**  
 *Oct 2019 – Feb 2022 | Eku, Delta State, Nigeria*  
-- Maintained 50+ school computers and IT infrastructure.  
-- Taught students computer theory and practical skills.  
-- Provided technical support to staff and managed school materials.  
-**Skills:** CorelDRAW, Microsoft Office, Microsoft Excel, Graphic Design, IT Support  
+- Managed 50+ school computers and IT infrastructure.  
+- Delivered computer theory and practical lessons to students.  
+- Provided software and technical support to staff.  
+- Designed and printed examination papers and school materials.  
+**Skills:** CorelDRAW, Microsoft Office, Microsoft Excel  
 
 **Elipress Graphic and Printing Press – Graphic Designer (Internship)**  
-*Jan 2017 – Dec 2017 | Nigeria*  
-- Assisted in creating digital and print materials under mentorship.  
-- Developed core skills in Adobe Photoshop, Illustrator, and InDesign.  
+*Jan 2017 – Dec 2017 | On-site*  
+- Assisted in creating digital and print materials under senior designer mentorship.  
+- Developed core design skills in Adobe Photoshop, Illustrator, and InDesign.  
+- Contributed creative solutions to project demands and maintained high attention to detail.  
+- Collaborated with team members to support marketing and design initiatives.  
 
 **Vics Graphic World Computer Training Institute – Graphic Designer (Apprenticeship)**  
-*2016 – 2017 | Nigeria*  
-- Learned design, printing, and computer skills.  
-**Skills:** Microsoft Office, CorelDRAW, Adobe Photoshop, Photo & Image Scanning  
+*2016 – 2017 | Nigeria · On-site*  
+- Learned fundamentals of graphic design and digital tools.  
+**Skills:** Microsoft Word, Microsoft Excel, Microsoft PowerPoint, CorelDRAW, Adobe Photoshop, Photo & Image Scanning, Ulead  
 
 ---
 
 <h3 align="left">🎓 Education:</h3>
 
-- **Niagara College** – Advanced Diploma, Graphic Design (Sep 2023 – Apr 2026)  
-- **Brigham Young University–Idaho** – Certificate, Web & Computer Programming (Sep 2023 – Jul 2024)  
-- **Brigham Young University–Idaho** – Associate of Science, Web Development (Sep 2023 – Jul 2025)  
-- **Brigham Young University–Idaho** – Bachelor of Science, Software Development (Sep 2023 – Jul 2027)  
+- **Niagara College** – Advanced Diploma, Graphic Design (Expected Graduation: Apr 2026)  
+- **Brigham Young University–Idaho** – Certificate, Web & Computer Programming (Expected Graduation: Jul 2024)  
+- **Brigham Young University–Idaho** – Associate of Science, Web Development (Expected Graduation: Jul 2025)  
+- **Brigham Young University–Idaho** – Bachelor of Science, Software Development (Expected Graduation: Jul 2027)  
 
 ---
 
