@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm Oghenefuyere Okiotorhoro (OG)</h1>
-<h3 align="center">🚀 Front-End Engineer | UX Designer | Web Developer</h3>
+<h1 align="center">Hi, I'm Oghenefuyere Okiotorhoro (OG)</h1>
+<h3 align="center">Product-Driven Software Engineer | UX-Focused Web Developer</h3>
 
 <p align="center">
-I build dynamic, user-focused web applications with <b>HTML, CSS, JavaScript, Node.js, Express, PostgreSQL, MongoDB</b> and create intuitive designs using <b>Figma, Photoshop, Illustrator</b>.  
-Currently learning <b>React</b> to expand my front-end development skills. Passionate about innovative, responsive, and scalable digital solutions.
+I build <b>user-centric web applications</b> with <b>HTML, CSS, JavaScript, Node.js, Express, PostgreSQL, MongoDB</b> and design intuitive experiences using <b>Figma, Photoshop, Illustrator</b>.  
+I develop full-stack applications with <b>CRUD operations, secure authentication (Google OAuth, JWT), responsive design, and unit testing with Jest</b>.  
+I have deployed REST APIs and websites using <b>Render, Netlify, and GitHub</b>.  
+Passionate about innovative, scalable digital solutions, I enjoy blending technology and creativity to deliver impactful products.
 </p>
 
 ---
 
-- 🔭 Currently working on: **Restaurant Website Project**  
-- 🌱 Learning: **React & Advanced UI/UX Design Systems**  
-- 💬 Ask me about: **Frontend Development, UX/UI Design, Web Optimization**  
-- 📫 Reach me: **oghenefuyereo@gmail.com**  
-- 🌐 Portfolio: [View My Work](https://oki23001.myportfolio.com/)  
+- **Currently working on:** Restaurant Website Project  
+- **Learning:** React & Advanced UI/UX Design Systems  
+- **Ask me about:** Front-End Development, UX/UI Design, Product-Driven Solutions  
+- **Reach me:** oghenefuyereo@gmail.com  
+- **Portfolio:** [View My Work](https://oki23001.myportfolio.com/)  
 
 ---
 
@@ -21,20 +23,20 @@ Currently learning <b>React</b> to expand my front-end development skills. Passi
 **Languages & Frameworks:** HTML, CSS, JavaScript, Node.js, Express, Python, C#  
 **Databases & APIs:** PostgreSQL, MongoDB, REST APIs  
 **Design Tools:** Figma, Adobe CC (Photoshop, Illustrator, InDesign)  
-**Other Tools:** GitHub, Render, Netlify, SEO  
+**Other Tools:** GitHub, Render, Netlify, SEO, Jest  
 
 ---
 
 <h3 align="left">💼 Selected Experience:</h3>
 
 - **Freelance / Contract – UX Designer & Web Developer** | Nov 2023 – Present  
-  Built web applications, designed intuitive UI/UX, and deployed projects using Render & Netlify.  
+  Built full-stack web applications, designed intuitive UI/UX, and deployed projects ensuring usability, responsiveness, and scalability.  
 
 - **Niagara College – Peer Tutor (Contract Part-time)** | Expected Apr 2026  
-  Tutored students in Adobe CC, word processing, and software navigation.  
+  Mentored students on Adobe CC, UX workflows, and design problem-solving, improving project clarity and usability.  
 
 - **Ebeano Supermarket – Graphic Web Designer (Contract, Part-time)** | Apr 2024 – Jul 2024  
-  Enhanced web accessibility, SEO, and marketing campaigns, boosting engagement and conversions.  
+  Improved web accessibility, SEO, and marketing campaigns, increasing user engagement and conversions.  
 
 ---
 
