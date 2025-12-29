@@ -10,7 +10,7 @@ Passionate about innovative, scalable digital solutions, I enjoy blending techno
 
 ---
 
-- **Currently working on:** Restaurant Website Project  
+- **Currently working on:** Fashion Social Network Platform 
 - **Learning:** React & Advanced UI/UX Design Systems  
 - **Ask me about:** Front-End Development, UX/UI Design, Product-Driven Solutions  
 - **Reach me:** oghenefuyereo@gmail.com  
