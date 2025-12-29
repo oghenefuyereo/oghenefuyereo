@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oghenefuyere Okiotorhoro (OG)</h1>
-<h3 align="center">Product-Driven Software Engineer | UX-Focused Web Developer</h3>
+<h3 align="center">Product-Driven Software Engineer</h3>
 
 <p align="center">
 I build <b>user-centric web applications</b> with <b>HTML, CSS, JavaScript, Node.js, Express, PostgreSQL, MongoDB</b> and design intuitive experiences using <b>Figma, Photoshop, Illustrator</b>.  
