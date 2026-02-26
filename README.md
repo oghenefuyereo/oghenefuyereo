@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Oghenefuyere Okiotorhoro (OG)</h1>
 <h3 align="center">Product-Driven Software Engineer</h3>
 
-<p align="center">
-I build <b>user-centric web applications</b> with <b>HTML, CSS, JavaScript, Node.js, Express, PostgreSQL, MongoDB</b> and design intuitive experiences using <b>Figma, Photoshop, Illustrator</b>.  
-I develop full-stack applications with <b>CRUD operations, secure authentication (Google OAuth, JWT), responsive design, and unit testing with Jest</b>.  
-I have deployed REST APIs and websites using <b>Render, Netlify, and GitHub</b>.  
+<p align="justify">
+I build user-centric web applications with HTML, CSS, JavaScript, Node.js, Express, PostgreSQL, MongoDB and design intuitive experiences using Figma, Photoshop, Illustrator.  
+I develop full-stack applications with CRUD operations, secure authentication (Google OAuth, JWT), responsive design, and unit testing with Jest.  
+I have deployed REST APIs and websites using Render, Netlify, and GitHub.  
 Passionate about innovative, scalable digital solutions, I enjoy blending technology and creativity to deliver impactful products.
 </p>
 
@@ -18,7 +18,7 @@ Passionate about innovative, scalable digital solutions, I enjoy blending techno
 
 ---
 
-<h3 align="left">🛠 Key Skills:</h3>
+<h3 align="left"> Key Skills:</h3>
 
 **Languages & Frameworks:** HTML, CSS, JavaScript, Node.js, Express, Python, C#  
 **Databases & APIs:** PostgreSQL, MongoDB, REST APIs  
@@ -27,7 +27,7 @@ Passionate about innovative, scalable digital solutions, I enjoy blending techno
 
 ---
 
-<h3 align="left">💼 Selected Experience:</h3>
+<h3 align="left">Selected Experience:</h3>
 
 - **Freelance / Contract – UX Designer & Web Developer** | Nov 2023 – Present  
   Built full-stack web applications, designed intuitive UI/UX, and deployed projects ensuring usability, responsiveness, and scalability.  
@@ -40,7 +40,7 @@ Passionate about innovative, scalable digital solutions, I enjoy blending techno
 
 ---
 
-<h3 align="left">🎓 Education:</h3>
+<h3 align="left"> Education:</h3>
 
 - **Niagara College** – Advanced Diploma, Graphic Design (Expected Apr 2026)  
 - **BYU–Idaho** – Certificate, Web & Computer Programming (Expected Jul 2024)  
