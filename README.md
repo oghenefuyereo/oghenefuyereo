@@ -1,58 +1,81 @@
-<h1 align="center">Hi, I'm Oghenefuyere Okiotorhoro (OG)</h1>
-<h3 align="center">Product-Driven Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Oghenefuyere Okiotorhoro</h1>
+<h3 align="center">Product-Driven Software Engineer & UX/UI Designer</h3>
 
-<p align="justify">
-I build user-centric web applications with HTML, CSS, JavaScript, Node.js, Express, PostgreSQL, MongoDB and design intuitive experiences using Figma, Photoshop, Illustrator.  
-I develop full-stack applications with CRUD operations, secure authentication (Google OAuth, JWT), responsive design, and unit testing with Jest.  
-I have deployed REST APIs and websites using Render, Netlify, and GitHub.  
-Passionate about innovative, scalable digital solutions, I enjoy blending technology and creativity to deliver impactful products.
+<p align="center">
+Building modern digital experiences through code, creativity, and design.
+</p>
+
+<p align="center">
+  <a href="https://github.com/oghenefuyereo">
+    <img src="https://img.shields.io/badge/Focus-FullStack_Development-black?style=for-the-badge" />
+  </a>
+  
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/Learning-React-blue?style=for-the-badge" />
+  </a>
+  
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/Design-UI%2FUX-purple?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-- **Currently working on:** Fashion Social Network Platform 
-- **Learning:** React & Advanced UI/UX Design Systems  
-- **Ask me about:** Front-End Development, UX/UI Design, Product-Driven Solutions  
-- **Reach me:** oghenefuyereo@gmail.com  
-- **Portfolio:** [View My Work](https://oki23001.myportfolio.com/)  
+## 🚀 About Me
+
+- Building scalable, user-focused web applications  
+- Strong background in UX/UI design & visual storytelling  
+- Experienced in full-stack development and responsive design  
+- Built applications with authentication, REST APIs, CRUD systems & testing  
+- Currently learning **React** & advanced design systems  
+- Working on a **Fashion Social Network Platform**
 
 ---
 
-<h3 align="left"> Key Skills:</h3>
+## 🛠️ Tech Stack
 
-**Languages & Frameworks:** HTML, CSS, JavaScript, Node.js, Express, Python, C#  
-**Databases & APIs:** PostgreSQL, MongoDB, REST APIs  
-**Design Tools:** Figma, Adobe CC (Photoshop, Illustrator, InDesign)  
-**Other Tools:** GitHub, Render, Netlify, SEO, Jest  
-
----
-
-<h3 align="left">Selected Experience:</h3>
-
-- **Freelance / Contract – UX Designer & Web Developer** | Nov 2023 – Present  
-  Built full-stack web applications, designed intuitive UI/UX, and deployed projects ensuring usability, responsiveness, and scalability.  
-
-- **Niagara College – Peer Tutor (Contract Part-time)** | Expected Apr 2026  
-  Mentored students on Adobe CC, UX workflows, and design problem-solving, improving project clarity and usability.  
-
-- **Ebeano Supermarket – Graphic Web Designer (Contract, Part-time)** | Apr 2024 – Jul 2024  
-  Improved web accessibility, SEO, and marketing campaigns, increasing user engagement and conversions.  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,python,cs,postgres,mongodb,git,github,figma" />
+</p>
 
 ---
 
-<h3 align="left"> Education:</h3>
+## 📚 Education
 
-- **Niagara College** – Advanced Diploma, Graphic Design (Expected Apr 2026)  
-- **BYU–Idaho** – Certificate, Web & Computer Programming (Expected Jul 2024)  
-- **BYU–Idaho** – Associate of Science, Web Development (Expected Jul 2025)  
-- **BYU–Idaho** – Bachelor of Science, Software Development (Expected Jul 2027)  
+🎓 **B.Sc. Software Development** — BYU–Idaho *(Expected Oct 2026)*  
+🎓 **Associate of Applied Science in Software Development** — BYU–Idaho  
+🎓 **Advanced Diploma in Graphic Design** — Niagara College  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ookiotorhoro" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/oghenefuyere-okiotorhoro-437598152" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-<a href="https://www.instagram.com/og_fuyere/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
-<a href="https://www.behance.net/oghenefokiotor1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40"/></a>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oghenefuyereo&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghenefuyereo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/oghenefuyere-okiotorhoro-437598152">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.behance.net/oghenefokiotor1">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="48" />
+</a>
+
+<a href="https://www.instagram.com/og_fuyere/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Blending technology and creativity to build impactful digital products."</i>
 </p>
