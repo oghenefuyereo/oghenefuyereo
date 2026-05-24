@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oghenefuyere Okiotorhoro</h1>
+<h1 align="center">Hi, I'm Oghenefuyere Okiotorhoro</h1>
 <h3 align="center">Product-Driven Software Engineer & UX/UI Designer</h3>
 
 <p align="center">
