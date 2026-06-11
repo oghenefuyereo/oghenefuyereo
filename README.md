@@ -1,6 +1,6 @@
 # Oghenefuyere Okiotorhoro
 
-Hello! 👋
+Hello!
 
 I'm Oghenefuyere Okiotorhoro, a student at Brigham Young University–Idaho currently pursuing a Bachelor's degree in Software Development. I am also a graduate of Niagara College, where I completed an Advanced Diploma in Graphic Design. I am passionate about software development, UX/UI design, and building user-centered digital products. Welcome to my GitHub profile!
 
