@@ -6,7 +6,7 @@ I'm Oghenefuyere Okiotorhoro, a student at Brigham Young University–Idaho curr
 
 ## About Me
 
-- I'm currently learning full-stack web development, software engineering principles, and improving my UX/UI design skills through academic and personal projects  
+- I am currently learning full-stack web development, software engineering principles, and improving my UX/UI design skills through academic and personal projects  
 - My goals are to become a Product-Focused Software Engineer and build scalable, user-centered digital applications that solve real-world problems  
 - Ask me about web development, UX/UI design, product thinking, or combining design with software engineering  
 
